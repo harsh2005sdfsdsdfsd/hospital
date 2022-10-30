@@ -7,6 +7,10 @@
     --text-shadow:.4rem .4rem 0 rgba(0, 0, 0, .2);
     --border:.2rem solid var(--green);
 }
+.h1{
+    height:60px;
+    width:40x;
+}
 
 *{
     font-family: 'Poppins', sans-serif;
