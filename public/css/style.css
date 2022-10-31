@@ -286,6 +286,11 @@ section:nth-child(even){
     margin-top: 1rem;
     margin-bottom: 1rem;
 }
+.doctors  .box:hover {
+
+    transform: scale(1.2);
+
+}
 
 .doctors .box-container .box h3{
     color:var(--black);
